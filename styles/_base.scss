@@ -35,6 +35,7 @@ img {
 }
 
 // Mixins
+// Mixins allow you to encapsulate a group of styles, and apply those styles anywhere in your code using the @include keyword.
 @mixin flex {
     display: flex;
     justify-content: space-between;
