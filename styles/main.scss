@@ -1,0 +1,8 @@
+// here are imported all partial .scss files
+
+@import "variables"; //imports the file: _variables.scss and so on
+@import "base";
+@import "layout";
+@import "components";
+// @import "home";
+// @import "responsive";
